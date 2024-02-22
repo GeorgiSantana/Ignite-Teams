@@ -1,4 +1,4 @@
-import { Groups } from "@screens/Groups";
+import { Groups } from "./src/screens/Groups";
 import { ThemeProvider } from "styled-components";
 import theme from "./src/theme";
 
